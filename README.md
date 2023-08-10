@@ -1,6 +1,6 @@
 # CodSoft1
 Landing Page Level 1 Task1
-<b>Zomato Frontend Page</b>
+<b>GreenGuard Landing Page</b>
 
 Welcome to the GreenGuard Frontend Page! This repository contains the frontend code for the GreenGuard website
 which is a public initiative towrds environment sustainability
